@@ -1,7 +1,7 @@
 package com.mkaya.step_definitions;
 
-public class MetinGitPractice {
+public class MetinGit2 {
     public static void main(String[] args) {
-        System.out.println("metin's git practice");
+        System.out.println("lasjflas");
     }
 }
