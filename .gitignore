@@ -1,2 +1,2 @@
-target/
-TestForIgnore222/
+/target/
+/TestIgnore
